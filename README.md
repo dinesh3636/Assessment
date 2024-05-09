@@ -5,5 +5,5 @@ typicode.com/photos` user informationand photo data. The `App` component orchest
 email, address, phone, website, and company details. The `PhotoGrid` component presents a grid of photos fetched from the API, each accompanied by its title. This project demonstrates 
 the integration of React with external APIs to dynamically render user and photo data.
 
-![App Preview]()
+![App Preview](https://github.com/dinesh3636/Assessment/blob/main/output.png)
 
